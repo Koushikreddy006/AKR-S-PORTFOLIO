@@ -1,40 +1,50 @@
-🚀 AKR'S PORTFOLIO
+# 🚀 AKR'S PORTFOLIO
 
-This is my personal portfolio website built using HTML and CSS to showcase my skills, projects, and contact information.
+Personal portfolio website developed using HTML and CSS to showcase my technical skills, projects, and professional profile.
 
-🌐 Live Website
-
+## 🌐 Live Website
 👉 https://koushikreddy006.github.io/AKR-S-PORTFOLIO/
 
-📌 Features
-Responsive portfolio design
-Skills section
-Projects showcase
-Contact information
-GitHub and LinkedIn links
-Profile image integration
-🛠️ Technologies Used
-HTML5
-CSS3
-📂 Projects Included
-🔹 Portfolio Website
+---
 
-Responsive personal portfolio built using HTML and CSS.
+## 📌 Features
+- Responsive portfolio design
+- Technical skills section
+- Project showcase
+- Contact information
+- GitHub and LinkedIn integration
+- Profile image integration
 
-🔹 To-Do App
+---
 
-Task management app built using JavaScript and DOM manipulation.
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Basic)
+- Git & GitHub
 
-🔹 PyDFS Distributed File System
+---
 
-Python-based distributed file system prototype for file storage management.
+## 📂 Projects Included
 
-📧 Contact
-Email: koushikreddyaileni006@gmail.com
-GitHub: https://github.com/Koushikreddy006
-LinkedIn: https://www.linkedin.com/in/aileni-koushik-reddy-38381527a/
+### 🔹 Student Management System
+Java-based application developed using OOP concepts and SQL for managing student records efficiently.
 
-⭐ Author
+### 🔹 Portfolio Website
+Responsive personal portfolio website built using HTML and CSS.
 
-Aileni Koushik Reddy
-Web Developer | ECE Student
+### 🔹 PyDFS Distributed File System
+Python-based distributed file system prototype using TCP sockets for file storage and communication.
+
+---
+
+## 📧 Contact
+- Email: koushikreddyaileni006@gmail.com
+- GitHub: https://github.com/Koushikreddy006
+- LinkedIn: https://www.linkedin.com/in/aileni-koushik-reddy-38381527a/
+
+---
+
+## ⭐ Author
+**Aileni Koushik Reddy**  
+Java Full Stack Developer Aspirant | ECE Student
